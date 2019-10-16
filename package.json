@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "react": "16.4.1",
-    "react-native": "0.56.0",
+    "react-native": "0.56.1",
     "react-navigation": "^2.0.0",
     "styled-components": "^3.4.5"
   },
